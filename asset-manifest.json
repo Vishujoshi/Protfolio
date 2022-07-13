@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/protfolio/static/css/main.c0c1723c.css",
+    "main.js": "/protfolio/static/js/main.0ba0515c.js",
+    "static/js/787.f9631862.chunk.js": "/protfolio/static/js/787.f9631862.chunk.js",
+    "static/media/author.jpg": "/protfolio/static/media/author.d4526072a93d7687c55d.jpg",
+    "static/media/animal.jpg": "/protfolio/static/media/animal.5d949435c9fa1c1e7226.jpg",
+    "static/media/exploring.jpg": "/protfolio/static/media/exploring.82cd7f0ab353190825ba.jpg",
+    "static/media/bg.jpg": "/protfolio/static/media/bg.d87d71e9d2a297ae8999.jpg",
+    "static/media/travel.jpg": "/protfolio/static/media/travel.dfc1bd2d0629963c4190.jpg",
+    "static/media/game.jpg": "/protfolio/static/media/game.040449b2aca625d2a78b.jpg",
+    "static/media/hobbg.jpg": "/protfolio/static/media/hobbg.abf603d8e5b8f9f740ef.jpg",
+    "static/media/laptop.jpg": "/protfolio/static/media/laptop.85eb9b9ef07412a7bc9f.jpg",
+    "static/media/logos.png": "/protfolio/static/media/logos.b5850bb16be64f60f25f.png",
+    "index.html": "/protfolio/index.html",
+    "main.c0c1723c.css.map": "/protfolio/static/css/main.c0c1723c.css.map",
+    "main.0ba0515c.js.map": "/protfolio/static/js/main.0ba0515c.js.map",
+    "787.f9631862.chunk.js.map": "/protfolio/static/js/787.f9631862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c1723c.css",
+    "static/js/main.0ba0515c.js"
+  ]
+}
