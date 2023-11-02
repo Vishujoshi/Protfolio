@@ -8,7 +8,7 @@ import Services from './components/Services.js'
 import Hobbies from './components/Hobbies.js'
 import Footer from './components/Footer.js'
 import Contact from './components/Conatct.js'
-
+import Projects from './components/Projects.js';
 
 function App() {
   return (
@@ -41,13 +41,14 @@ function App() {
     <Navbar />
     <Header/>
     <AboutMe />
-    
+    <Projects/>
 
-    <Hobbies/>
+    
     <Services/>
+    <Hobbies/>
     
     <Contact/>
-
+    
     <Footer/>
     
     

@@ -25,6 +25,9 @@ return(
         <li className="nav-item">
         <Link smooth={true} to="about" offset={-130} className="nav-link" href="#">About Me</Link>
       </li>
+      <li className="nav-item">
+        <Link smooth={true} to="projects" offset={-130} className="nav-link" href="#">Resume</Link>
+      </li>
         <li className="nav-item">
         <Link smooth={true} to="hobbies" offset={-90} className="nav-link" href="#">Hobbies</Link>
       </li>
